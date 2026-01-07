@@ -4,6 +4,8 @@ AI Engineer | LLM Systems | Business Automation
 
 I build production-ready AI systems using Large Language Models (LLMs), Python, and workflow automation. My focus is on real-world business use cases: chatbots, RAG systems, AI agents, and end-to-end automations.
 
+[![Ahmed El Fakharany's GitHub stats](https://github-readme-stats.vercel.app/api?username=ahmed-assem99)](https://github.com/ahmed-assem99/github-readme-stats)
+
 ⸻
 
 🔧 Core Skills
@@ -81,8 +83,7 @@ Tech: n8n, LLM APIs, Webhooks
 ⸻
 
 📫 Contact
-	•	LinkedIn: add link
-	•	Email: add email
+	•	Email: ahmedassem13@gmail.com
 
 ⸻
 
