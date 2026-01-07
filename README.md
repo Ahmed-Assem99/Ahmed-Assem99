@@ -1,16 +1,89 @@
-## Hi there 👋
+Ahmed El Fakharany 👋
 
-<!--
-**Ahmed-Assem99/Ahmed-Assem99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+AI Engineer | LLM Systems | Business Automation
 
-Here are some ideas to get you started:
+I build production-ready AI systems using Large Language Models (LLMs), Python, and workflow automation. My focus is on real-world business use cases: chatbots, RAG systems, AI agents, and end-to-end automations.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+⸻
+
+🔧 Core Skills
+	•	LLM Engineering: OpenAI, Claude, OpenRouter, Ollama (local models)
+	•	Python: API development, prompt orchestration, agents, evaluators
+	•	RAG Systems: Embeddings, vector databases (FAISS / Pinecone), document ingestion
+	•	Automation: n8n workflows, webhooks, API integrations
+	•	Cost & Reliability: token optimization, fallbacks, logging, validation
+
+⸻
+
+🚀 Featured Projects
+
+1️⃣ RAG Knowledge-Base Chatbot
+
+Problem: Companies have documents but no easy way to query them.
+
+Solution:
+	•	PDF ingestion & chunking
+	•	Vector search with embeddings
+	•	Grounded AI answers with sources
+
+Tech: Python, OpenAI / Ollama, FAISS, n8n
+
+🔗 Repo: coming soon
+
+⸻
+
+2️⃣ Multi-Agent AI Reviewer (GPT ↔ Ollama)
+
+Problem: AI outputs need validation before business use.
+
+Solution:
+	•	GPT generates content
+	•	Local Ollama model reviews & scores output
+	•	Automatic pass / fail logic
+
+Tech: Python, OpenAI API, Ollama
+
+🔗 Repo: coming soon
+
+⸻
+
+3️⃣ AI Business Automation Workflow
+
+Problem: Manual email & support workflows waste time.
+
+Solution:
+	•	AI decision-making
+	•	Automated branching & notifications
+	•	Human-in-the-loop when needed
+
+Tech: n8n, LLM APIs, Webhooks
+
+🔗 Repo: coming soon
+
+⸻
+
+🧠 How I Work
+	•	Engineer-first mindset (not prompt hacks)
+	•	Business-driven AI solutions
+	•	Cost-aware & production-ready systems
+	•	Clear documentation & demos
+
+⸻
+
+💼 Freelance Services
+	•	Custom AI chatbots (RAG)
+	•	AI automation for businesses
+	•	LLM system design & optimization
+	•	AI evaluators & quality control
+
+📬 Open to freelance & consulting opportunities.
+
+⸻
+
+📫 Contact
+	•	LinkedIn: add link
+	•	Email: add email
+
+⸻
+
+⭐ If you’re interested in practical AI systems, feel free to explore my repositories or reach out.
