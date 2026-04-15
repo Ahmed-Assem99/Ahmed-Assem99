@@ -1,8 +1,41 @@
 
 #  Hello, I'm Ahmed 👋 :
-# AI Engineer | LLM Systems | Business Automation<br>
-<br>I build production-ready AI systems using Large Language Models (LLMs), Python, and workflow automation. My focus is on real-world business use cases: chatbots, RAG systems, AI agents, and end-to-end automations.<br><br>⸻<br><br>🔧 Core Skills<br>	•	LLM Engineering: OpenAI, Claude, OpenRouter, Ollama (local models)<br>	•	Python: API development, prompt orchestration, agents, evaluators<br>	•	RAG Systems: Embeddings, vector databases (FAISS / Pinecone), document ingestion<br>	•	Automation: n8n workflows, webhooks, API integrations<br>	•	Cost & Reliability: token optimization, fallbacks, logging, validation<br><br>⸻<br><br>💼 Freelance Services<br>	•	Custom AI chatbots (RAG)<br>	•	AI automation for businesses<br>	•	LLM system design & optimization<br>	•	AI evaluators & quality control<br><br>📬 Open to freelance & consulting opportunities.<br><br>⸻<br>
+# Full Stack Developer | AI Engineer | Business Automation
 
+I build AI-integrated web applications and production-ready automation systems.
+I combine full stack development with deep expertise in LLMs, RAG systems,
+and workflow automation to deliver real-world, end-to-end digital products.
+
+⸻
+
+🌐 Full Stack Skills
+- **Frontend:** React, JavaScript (ES6+), HTML, CSS
+- **Backend:** Node.js, Express.js
+- **Database:** MongoDB, Mongoose
+- **Stack:** MERN (MongoDB, Express, React, Node.js)
+
+⸻
+
+🧠 AI & Automation Skills
+- **LLM Engineering:** OpenAI, Claude, OpenRouter, Ollama (local models)
+- **RAG Systems:** Embeddings, vector databases (FAISS / Pinecone), document ingestion
+- **Automation:** n8n workflows, webhooks, API integrations
+- **Python:** Prompt orchestration, agents, evaluators, API development
+- **Cost & Reliability:** Token optimization, fallbacks, logging, validation
+
+⸻
+
+💼 Services
+- AI-integrated full stack web applications
+- Custom AI chatbots (RAG-powered)
+- Business automation pipelines (n8n)
+- LLM system design & optimization
+- AI evaluators & quality control
+
+⸻
+
+📬 Open to freelance, consulting & collaboration opportunities.
+⸻
 # 📫 Contact
 Email: ahmedassem13@gmail.com
 
