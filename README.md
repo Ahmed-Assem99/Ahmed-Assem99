@@ -1,6 +1,6 @@
 
 #  Hello, I'm Ahmed 👋 :
-# Full Stack Developer | AI Engineer | Business Automation
+# Full Stack Developer | Business Automation
 
 I build AI-integrated web applications and production-ready automation systems.
 I combine full stack development with deep expertise in LLMs, RAG systems,
