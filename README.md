@@ -1,38 +1,38 @@
+#  Hello, I'm Ahmed 👋
+# Full Stack Developer | Founder of AAF Studio
 
-#  Hello, I'm Ahmed 👋 :
-# Full Stack Developer | Business Automation
-
-I build AI-integrated web applications and production-ready automation systems.
-I combine full stack development with deep expertise in LLMs, RAG systems,
-and workflow automation to deliver real-world, end-to-end digital products.
+I design and build digital products for the web: fast, responsive web apps and websites
+with React and TypeScript, backed by Node.js and Python APIs. When a product calls for it,
+I also add AI features such as chatbots and n8n automations.
 
 🚀 **Portfolio (AAF Studio):** [aaf-portfolio.vercel.app](https://aaf-portfolio.vercel.app)
 
 ⸻
 
-🌐 Full Stack Skills
-- **Frontend:** React, JavaScript (ES6+), HTML, CSS
-- **Backend:** Node.js, Express.js
-- **Database:** MongoDB, Mongoose
-- **Stack:** MERN (MongoDB, Express, React, Node.js)
+🌐 Frontend
+- **Core:** React, TypeScript, JavaScript (ES6+), HTML5, CSS3
+- **Styling & UI:** Tailwind CSS, Bootstrap, responsive and right-to-left (Arabic) layouts
+- **Tooling:** Vite, React Router, React Hook Form + Zod, Axios
 
 ⸻
 
-🧠 AI & Automation Skills
-- **LLM Engineering:** OpenAI, Claude, OpenRouter, Ollama (local models)
-- **RAG Systems:** Embeddings, vector databases (FAISS / Pinecone), document ingestion
-- **Automation:** n8n workflows, webhooks, API integrations
-- **Python:** Prompt orchestration, agents, evaluators, API development
-- **Cost & Reliability:** Token optimization, fallbacks, logging, validation
+⚙️ Backend
+- **Node.js:** Express.js, MongoDB, Mongoose (MERN)
+- **Python:** FastAPI, SQLAlchemy, JWT authentication
+- **APIs:** REST API design and third-party integrations
+
+⸻
+
+🧠 AI & Automation
+- n8n workflows that connect LLMs (OpenAI, Gemini, OpenRouter) to Google Workspace and WhatsApp
+- Chatbots that answer from a business's own website or documents (RAG)
 
 ⸻
 
 💼 Services
-- AI-integrated full stack web applications
-- Custom AI chatbots (RAG-powered)
-- Business automation pipelines (n8n)
-- LLM system design & optimization
-- AI evaluators & quality control
+- Web apps & dashboards
+- Landing pages & websites, in English or Arabic
+- AI features & automation
 
 ⸻
 
